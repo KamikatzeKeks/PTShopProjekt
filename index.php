@@ -18,6 +18,9 @@ and open the template in the editor.
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="Login.js"></script>
     </head>
+    <header>
+        <img src="Logo.png" alt="">
+    </header>
     <body>
         
     <div id="div1">
